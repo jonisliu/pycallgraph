@@ -5,7 +5,9 @@
 Project Abandoned
 #################
 
-Many apologies. I've stopped maintaining this project due to personal time constraints. `Blog post <https://geraldkaszuba.com/retiring-projects/>`_ with more information.
+Many apologies. I've stopped maintaining this project due to personal time constraints.
+
+https://github.com/Lewiscowles1986/py-call-graph is a currently maintained fork.
 
 I'm happy to forward users to any new forks, or to discuss PyPI ownership.
 
